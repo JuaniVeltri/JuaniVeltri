@@ -70,14 +70,6 @@ Currently working as **Sr Software Engineer at Strike**, specializing in buildin
 
 ---
 
-## 🎓 Education & Certifications
-
-- **Bachelor's Degree** - UADE (Universidad Argentina de la Empresa) | 2018-2022
-- **AWS Well-Architected Best Practices** - Amazon Web Services | 2023
-- **React Complete Guide** - Hooks, Context, Redux, MERN Stack | Udemy | 2022
-
----
-
 ## 🌟 What I Do
 
 - **🏦 Fintech Solutions**: Specialized in payment platforms and financial infrastructure
