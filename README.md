@@ -107,6 +107,15 @@ I build **scalable products for fintech, cybersecurity and millions of users**.
 
 ## Featured Projects
 
+### 🐎 [Polopage](https://www.polopage.net/es)
+Global polo community platform. Filterable player directory (handicap, rank, country, club), unified services marketplace (horses, farriers, vets, saddlery), news feed, community chat, surveys with reward credits and admin payment workflows. Bilingual ES/EN.
+
+`Next.js 16` · `React 19` · `tRPC` · `Hono` · `Drizzle` · `PostgreSQL` · `Neon` · `Clerk` · `Ably` · `Cloudflare R2` · `Turborepo` · `Sentry`
+
+🌐 [polopage.net](https://www.polopage.net/es)
+
+---
+
 ### 🏘️ [Barrial](https://barrial.com.ar)
 Social-commerce platform for gated neighborhoods. Algorithmic feed, reviews, stories, announcements, QR visits, lost pets. **iOS & Android coming soon.**
 
