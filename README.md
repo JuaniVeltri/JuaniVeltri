@@ -133,7 +133,7 @@ Browser-based PvP strategy game (Tribal Wars-style) wrapped in Argentine politic
 
 `Next.js 16` · `Fastify` · `tRPC` · `Socket.IO` · `BullMQ` · `Drizzle` · `PostgreSQL + PostGIS` · `Redis` · `Clerk` · `MercadoPago` · `NOWPayments` · `React Email` · `Resend` · `Expo` · `Railway` · `Neon` · `Turborepo`
 
-🌐 [guerraspoliticas.com](https://guerraspoliticas.com) · 📖 [wiki](https://wiki.guerraspoliticas.com)
+🌐 [guerraspoliticas.com](https://guerraspoliticas.com) · 📖 [wiki](https://wiki.guerraspoliticas.com) · 📱 [iOS](https://apps.apple.com/app/id6779907385)
 
 ---
 
@@ -142,7 +142,7 @@ Logic-deduction puzzle game (Murdoku-style) — instead of catching the murderer
 
 `Next.js 16` · `React 19` · `Expo` · `React Native` · `Hono` · `Drizzle` · `PostgreSQL` · `RevenueCat` · `MercadoPago` · `Paddle` · `NOWPayments` · `Tailwind 4` · `Turborepo` · `EAS`
 
-🌐 [indiciagame.com](https://indiciagame.com) · 📱 iOS & Android
+🌐 [indiciagame.com](https://indiciagame.com) · 📱 [iOS](https://apps.apple.com/app/id6786531665)
 
 ---
 
