@@ -34,7 +34,7 @@ I build **scalable products for fintech, cybersecurity and millions of users**.
 - 💼 Just wrapped up at **Strike** (cybersecurity · offensive security · pentesting)
 - 📊 Previously **Sr Developer at Pomelo Fintech** and **MercadoLibre / MercadoPago**
 - 🎯 Product Engineer mindset · backend, frontend, infra, automation, UI, performance
-- 🔭 Currently building **Barrial**, **SIU Bot** and automation tools
+- 🔭 Currently building **Guerras Políticas**, **Indicia**, **Barrial** and automation tools
 - 🌐 Portfolio: [jveltri.com.ar](https://jveltri.com.ar)
 
 ---
@@ -78,6 +78,8 @@ I build **scalable products for fintech, cybersecurity and millions of users**.
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -95,6 +97,7 @@ I build **scalable products for fintech, cybersecurity and millions of users**.
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
@@ -122,6 +125,33 @@ Social-commerce platform for gated neighborhoods. Algorithmic feed, reviews, sto
 `Next.js` · `React Native` · `Expo` · `tRPC` · `Prisma` · `PostgreSQL` · `Hono` · `Clerk` · `Better-Auth` · `Turborepo` · `AWS S3` · `Sentry` · `Resend`
 
 🌐 [barrial.com.ar](https://barrial.com.ar) · 📢 [socios.barrial.com.ar](https://socios.barrial.com.ar)
+
+---
+
+### ⚔️ [Guerras Políticas](https://guerraspoliticas.com)
+Browser-based PvP strategy game (Tribal Wars-style) wrapped in Argentine political satire — *"strategy is the skeleton, satire is the skin."* Real-time combat resolution, a procedurally generated world map (Voronoi + PostGIS), queues/workers for battle resolution and crons, and dual card + crypto payments. Full monorepo: game + landing, realtime API, worker, admin panel, public wiki and a mobile bootstrap.
+
+`Next.js 16` · `Fastify` · `tRPC` · `Socket.IO` · `BullMQ` · `Drizzle` · `PostgreSQL + PostGIS` · `Redis` · `Clerk` · `MercadoPago` · `NOWPayments` · `React Email` · `Resend` · `Expo` · `Railway` · `Neon` · `Turborepo`
+
+🌐 [guerraspoliticas.com](https://guerraspoliticas.com) · 📖 [wiki](https://wiki.guerraspoliticas.com)
+
+---
+
+### 🔍 [Indicia](https://indiciagame.com)
+Logic-deduction puzzle game (Murdoku-style) — instead of catching the murderer, you catch the jewel thief. 100% logic, no luck: unique-solution N×N grids, a technique-graded solver that scales difficulty, a level "path", and a daily case with streaks and shareable spoiler-free result cards. One Hono backend powers web and native, with server-authoritative leaderboards, native achievements (Game Center / Play Games) and cross-platform premium entitlements.
+
+`Next.js 16` · `React 19` · `Expo` · `React Native` · `Hono` · `Drizzle` · `PostgreSQL` · `RevenueCat` · `MercadoPago` · `Paddle` · `NOWPayments` · `Tailwind 4` · `Turborepo` · `EAS`
+
+🌐 [indiciagame.com](https://indiciagame.com) · 📱 iOS & Android
+
+---
+
+### 🛰️ [Following Tracker](https://igstalker.jveltri.com.ar)
+See who an Instagram account starts or stops following, over time. Snapshots a target's following list from your own browser session and diffs it — added vs. removed, matched by account id so renames don't lie. Ships three ways from one shared core: a Chrome MV3 side-panel extension, a zero-install bookmarklet / console script, and a two-file compare tool. Human-like anti-ban pacing, `x-ig-www-claim` bootstrap, 100% local — nothing leaves your browser. **Open source.**
+
+`TypeScript` · `Turborepo` · `WXT (MV3)` · `Next.js 16` · `React 19` · `Tailwind 4` · `Zod` · `Vitest` · `esbuild` · `Vercel`
+
+🌐 [igstalker.jveltri.com.ar](https://igstalker.jveltri.com.ar) · 💻 [GitHub](https://github.com/JuaniVeltri/igstalker)
 
 ---
 
